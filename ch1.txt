@@ -1,0 +1,3 @@
+First lesson in coding.
+
+document.write("Hello World!");
