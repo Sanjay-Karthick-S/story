@@ -1,3 +1,1 @@
-First lesson in coding.
-
-document.write("Hello World!");
+One eye no stupid. One Eye strong. Ha ha.
